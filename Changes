@@ -1,0 +1,6 @@
+Revision history for Perl extension JacBrisk.
+
+0.01  Sat May 25 23:42:35 2019
+	- original version; created by h2xs 1.23 with options
+		-AX -n JacBrisk
+
